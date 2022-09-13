@@ -1,0 +1,3 @@
+echo "Ruslan"
+echo "russel"
+echo "Evgenii"
