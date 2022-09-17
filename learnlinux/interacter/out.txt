@@ -1,0 +1,17 @@
+
+Hi, what is your name?
+Nice to meet you, Res!
+Hi, what is your name?
+Nice to meet you, Rus!
+Hi, what is your name?
+Nice to meet you, Gud!
+Hi, what is your name?
+Bye!
+Hi, what is your name?
+Nice to meet you, Echo "Ruslan"!
+Hi, what is your name?
+Nice to meet you, Echo "russel"!
+Hi, what is your name?
+Nice to meet you, Echo "Evgenii"!
+Hi, what is your name?
+Bye!
