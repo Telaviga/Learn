@@ -1,10 +1,18 @@
 #!/bin/bash
 
-exp=0
-base=10
-while [[ $exp -le 5 ]] 
-do
-  let "result = base ** exp"
-  echo "$base^$exp = $result"
-  let "exp += 1"
-done
+a=10
+b=5
+	let a=a+b
+	echo 1. $a
+
+	let "a=$a+$b"
+	echo 2. $a
+
+	let a+=$b
+	echo 3. $a
+
+	let a=$a+$b
+	echo 4. $a
+
+	let a = a + b
+	echo 5. $a
