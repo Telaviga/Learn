@@ -117,3 +117,4 @@ git clean -f -d # удалить из репозитория все неотсл
 
 
 https://github.com/rucreatizer/git?ysclid=l81rn0g8d1256141126 - шпора по всем действиям в самом низу
+https://github.com/cyberspacedk/Git-commands?ysclid=lcereacapz235671902 - что то получше)
