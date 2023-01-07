@@ -1,0 +1,12 @@
+git clone git@github.com:Telaviga/Telaviga.git
+ssh-keygen -t ed25519 -C "telaviga@gmail.com"
+eval "$(ssh-agent -s)"
+cat ~/.ssh/id_ed25519 или + .pub
+sudo apt install gh
+gh auth login
+--->github.com--->https--->credentials--->web_browser--->finish :D
+ах да, зайти на сайт и добавить этот ебучий токен..
+ssh -T git@github.com
+
+gh ssh-key add ~/.ssh/id_ed25519.pub
+
